@@ -1,5 +1,5 @@
 ### Hi there 👋
-https://media.giphy.com/media/08FYgSy68TASVuBXr1/giphy.gif
+<iframe src="https://giphy.com/embed/08FYgSy68TASVuBXr1" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/transparent-08FYgSy68TASVuBXr1">via GIPHY</a></p>
 <!--
 **hovhannisyannarine/hovhannisyannarine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
