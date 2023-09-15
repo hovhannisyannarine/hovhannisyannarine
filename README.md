@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGw4aW50cDJjamI2eXE2MXY4aWxyMXN6aXk0djQ3Z3FxNjFlYmxwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/08FYgSy68TASVuBXr1/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="100"/>
 </div>
 <!--
 **hovhannisyannarine/hovhannisyannarine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
