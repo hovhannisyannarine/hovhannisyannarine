@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="300"/>
 <div id="badges">
-  <a href="your-linkedin-URL](https://www.linkedin.com/in/narine-hovhannisyan-6ab85a230">
+  <a href="https://www.linkedin.com/in/narine-hovhannisyan-6ab85a230">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
