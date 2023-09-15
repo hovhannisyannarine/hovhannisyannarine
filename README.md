@@ -1,4 +1,3 @@
-### Hi there 👋
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="300"/>
 <div id="badges">
@@ -7,9 +6,11 @@
   </a>
 </div>
   <div id="badges">
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=hovhannisyannarine&style=flat-square&color=blue" alt=""/>
 </div>
 </div>
+### Hi there 👋
+
 ### :woman_technologist: About Me :
 I am a Full Stack Developer :computer: from Georgia.
 
@@ -51,6 +52,6 @@ I am a Full Stack Developer :computer: from Georgia.
   <img src="https://github.com/devicons/devicon/blob/master/icons/phpstorm/phpstorm-original.svg" title="phpstorm" alt="phpstorm" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hovhannisyannarine)](https://git.io/streak-stats)
 
 </div>
