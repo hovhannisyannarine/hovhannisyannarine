@@ -17,7 +17,7 @@ I am a Full Stack Developer :computer: from Georgia.
 
 - :zap: In my free time read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/narine-hovhannisyan-6ab85a230)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
