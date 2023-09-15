@@ -4,6 +4,9 @@
   <a href="https://www.linkedin.com/in/narine-hovhannisyan-6ab85a230">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://www.facebook.com/narine.hovhannisyan.2020">
+   <img src="https://img.shields.io/badge/Facebook-blue&logoColor=white" alt="Facebook"/>
+  </a>
 </div>
   <div id="badges">
 <img src="https://komarev.com/ghpvc/?username=hovhannisyannarine&style=flat-square&color=blue" alt=""/>
