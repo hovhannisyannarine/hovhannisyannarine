@@ -15,10 +15,9 @@
 ### :woman_technologist: About Me :
 I am a Full Stack Developer :computer: from Georgia.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
+- :telescope:  I’m working as a backend  developer for building web applications.
 - :zap: In my free time read tech articles.
-
+-  📚 Always learning!
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/narine-hovhannisyan-6ab85a230)
 
 ### :hammer_and_wrench: Languages and Tools :
