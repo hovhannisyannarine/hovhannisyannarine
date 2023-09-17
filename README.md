@@ -7,7 +7,7 @@
   <a href="https://www.facebook.com/narine.hovhannisyan.2020">
    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="https://www.facebook.com/narine.hovhannisyan.2020">
+  <a href="https://github.com/hovhannisyannarine/hovhannisyannarine">
    <img src="https://img.shields.io/badge/Github-gray?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
   </a>
 </div>
